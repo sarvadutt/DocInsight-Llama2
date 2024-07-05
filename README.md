@@ -58,7 +58,7 @@ There is a growing need for efficient text summarization, particularly in scenar
 ## Author
 
 - [Sarvadutt](https://github.com/sarvadutt)
-- **Repositories:** https://github.com/sarvadutt/Multi-Document-Summarization-using-LLAMA2
+- **Repositories:** https://github.com/sarvadutt/DocInsight-Llama2
 
 ## Feedback 
 
