@@ -1,0 +1,10 @@
+streamlit
+langchain
+scikit-learn
+llama-cpp-python
+PyPDF2
+sentence_transformers
+docx
+streamlit-option-menu
+streamlit-chat
+faiss_cpu
